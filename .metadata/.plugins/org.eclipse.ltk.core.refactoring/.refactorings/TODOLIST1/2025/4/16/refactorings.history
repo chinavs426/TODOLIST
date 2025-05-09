@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;servlets.Register&apos; to &apos;RegisterServlet&apos;&#x0D;&#x0A;- Original project: &apos;TODOLIST1&apos;&#x0D;&#x0A;- Original element: &apos;servlets.Register&apos;&#x0D;&#x0A;- Renamed element: &apos;servlets.RegisterServlet&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Register&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;servlets{Register.java[Register" matchStrategy="1" name="RegisterServlet" qualified="false" references="true" similarDeclarations="false" stamp="1744790733337" textual="false" version="1.0"/>
+</session>

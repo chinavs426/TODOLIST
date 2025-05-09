@@ -1,0 +1,11 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<hibernate-mapping>
+<class name="Emp" table="emp_tbl">
+<id name="eid" column="eid" type="integer">
+<generator class="increment"/>
+</id>
+<property name="ename" type="string"/>
+<property name="sal" type="double"/>
+<property name="desig" type="string"/>
+</class>
+</hibernate-mapping>
